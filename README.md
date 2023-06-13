@@ -2,18 +2,12 @@
 
 ###
 
-<div align="center">
-
-</div>
-
-###
-
 <img align="right" height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE0JbyR7c2W-SxZDa1Tqk8ZH4TbcKYger2guymkdgruFUncWlz6ToTBgfrqbtaWcS1g8mpXNg7VZnWl8SAli4kT8PZ9nLBtUEwwPyUK6u1Bd_1pFCCh7K0TamaosgDf49DsdtSOWoccrOIn5tgQBkAiEmkMkVlfBRSkAUXIlIig1obD5Vr19E5WDxu/s320/Untitled%20design.gif"  />
 
 ###
 
 <div align="left">
-<h3 align="left"> Here are some ideas to get you started:</h3>
+<h3 align="left">Unlock your potential with Hackway!</h3>
 
 - 🔭 I’m currently working on coding.
 - 🌱 I’m currently learning new skills.
@@ -24,6 +18,7 @@
 - 😄 Pronouns: like I or you.
 - ⚡ Fun fact: In binary, 15 + 1 equals 10, not 16.
   </div>
+  <hr/>
   
 ###
 
