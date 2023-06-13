@@ -23,7 +23,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter, instagram.
 - 😄 Pronouns: like I or you.
 - ⚡ Fun fact: In binary, 15 + 1 equals 10, not 16.
+  </div>
   
+###
+
+  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
